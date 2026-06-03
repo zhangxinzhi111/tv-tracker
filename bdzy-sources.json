@@ -1,0 +1,759 @@
+{
+  "庆余年": {
+    "vodId": 1724,
+    "name": "庆余年第一季特别版",
+    "pic": "https://img.bdzyimg1.com/upload/vod/20250616-1/9c07958613631d96f323dd6f40381fa4.jpg",
+    "desc": "<p>某大学文学史专业的学生张庆熟读古典名著，但他用现代观念剖析古代文学史的论文命题不被叶教授所认可。为了让叶教授成为自己的研究生导师，张庆决定通过写小说的方式，进一步阐述自己想要表达的观点。 在他的小说中，身世神秘的少年——范闲，自小跟随奶奶生活在海边小城澹州，随着一位老师的突然造访，他看似平静的生活开始直面重重的危机与考验。在神秘老师和一位蒙眼守护者的指点下，范闲熟识药性药理，修炼霸道真气并精进武艺，而后接连化解了诸多危局。因对身世之谜的好奇，范闲离开澹州，前赴京都。 在京都，范闲饱尝人间冷暖并坚守对正义、良善的坚持，历经家族、江湖、庙堂的种种考验与锤炼，书写了光彩的人生传奇。</p>",
+    "episodeCount": 25,
+    "episodes": [
+      {
+        "title": "第01集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fvod6.bdzybf11.com%2F20250125%2F1cg3Vq0l%2Findex.m3u8",
+        "originalUrl": "https://vod6.bdzybf11.com/20250125/1cg3Vq0l/index.m3u8"
+      },
+      {
+        "title": "第02集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fvod6.bdzybf11.com%2F20250125%2F4y1nhulr%2Findex.m3u8",
+        "originalUrl": "https://vod6.bdzybf11.com/20250125/4y1nhulr/index.m3u8"
+      },
+      {
+        "title": "第03集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fvod6.bdzybf11.com%2F20240512%2F45wIartQ%2Findex.m3u8",
+        "originalUrl": "https://vod6.bdzybf11.com/20240512/45wIartQ/index.m3u8"
+      },
+      {
+        "title": "第04集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fvod6.bdzybf11.com%2F20240512%2FQ1odhFJR%2Findex.m3u8",
+        "originalUrl": "https://vod6.bdzybf11.com/20240512/Q1odhFJR/index.m3u8"
+      },
+      {
+        "title": "第05集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fvod6.bdzybf11.com%2F20240512%2FHkhYrSqV%2Findex.m3u8",
+        "originalUrl": "https://vod6.bdzybf11.com/20240512/HkhYrSqV/index.m3u8"
+      },
+      {
+        "title": "第06集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fvod6.bdzybf11.com%2F20240512%2FKK1vCAl0%2Findex.m3u8",
+        "originalUrl": "https://vod6.bdzybf11.com/20240512/KK1vCAl0/index.m3u8"
+      },
+      {
+        "title": "第07集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fvod6.bdzybf11.com%2F20240512%2FFhB950Er%2Findex.m3u8",
+        "originalUrl": "https://vod6.bdzybf11.com/20240512/FhB950Er/index.m3u8"
+      },
+      {
+        "title": "第08集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fvod6.bdzybf11.com%2F20240512%2FY94992iZ%2Findex.m3u8",
+        "originalUrl": "https://vod6.bdzybf11.com/20240512/Y94992iZ/index.m3u8"
+      },
+      {
+        "title": "第09集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fvod6.bdzybf11.com%2F20240512%2F9KCnklDp%2Findex.m3u8",
+        "originalUrl": "https://vod6.bdzybf11.com/20240512/9KCnklDp/index.m3u8"
+      },
+      {
+        "title": "第10集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fvod6.bdzybf11.com%2F20250125%2F1JpvkfUS%2Findex.m3u8",
+        "originalUrl": "https://vod6.bdzybf11.com/20250125/1JpvkfUS/index.m3u8"
+      },
+      {
+        "title": "第11集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fvod6.bdzybf11.com%2F20250125%2FHH6oXOez%2Findex.m3u8",
+        "originalUrl": "https://vod6.bdzybf11.com/20250125/HH6oXOez/index.m3u8"
+      },
+      {
+        "title": "第12集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fvod6.bdzybf11.com%2F20250125%2FBRlTlIT5%2Findex.m3u8",
+        "originalUrl": "https://vod6.bdzybf11.com/20250125/BRlTlIT5/index.m3u8"
+      },
+      {
+        "title": "第13集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fvod6.bdzybf11.com%2F20240512%2FBFuqOJy6%2Findex.m3u8",
+        "originalUrl": "https://vod6.bdzybf11.com/20240512/BFuqOJy6/index.m3u8"
+      },
+      {
+        "title": "第14集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fvod6.bdzybf11.com%2F20240512%2FgONv6z1p%2Findex.m3u8",
+        "originalUrl": "https://vod6.bdzybf11.com/20240512/gONv6z1p/index.m3u8"
+      },
+      {
+        "title": "第15集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fvod6.bdzybf11.com%2F20240512%2FKBEXEqVP%2Findex.m3u8",
+        "originalUrl": "https://vod6.bdzybf11.com/20240512/KBEXEqVP/index.m3u8"
+      },
+      {
+        "title": "第16集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fvod6.bdzybf11.com%2F20240512%2FlLfoiHWn%2Findex.m3u8",
+        "originalUrl": "https://vod6.bdzybf11.com/20240512/lLfoiHWn/index.m3u8"
+      },
+      {
+        "title": "第17集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fvod6.bdzybf11.com%2F20240512%2FbAmCaNFt%2Findex.m3u8",
+        "originalUrl": "https://vod6.bdzybf11.com/20240512/bAmCaNFt/index.m3u8"
+      },
+      {
+        "title": "第18集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fvod6.bdzybf11.com%2F20240512%2F9vrWc9j8%2Findex.m3u8",
+        "originalUrl": "https://vod6.bdzybf11.com/20240512/9vrWc9j8/index.m3u8"
+      },
+      {
+        "title": "第19集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fvod6.bdzybf11.com%2F20250125%2FUpC8Uh60%2Findex.m3u8",
+        "originalUrl": "https://vod6.bdzybf11.com/20250125/UpC8Uh60/index.m3u8"
+      },
+      {
+        "title": "第20集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fvod6.bdzybf11.com%2F20250125%2FstyWvPEC%2Findex.m3u8",
+        "originalUrl": "https://vod6.bdzybf11.com/20250125/styWvPEC/index.m3u8"
+      },
+      {
+        "title": "第21集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fvod6.bdzybf11.com%2F20250125%2FmNBpr4YS%2Findex.m3u8",
+        "originalUrl": "https://vod6.bdzybf11.com/20250125/mNBpr4YS/index.m3u8"
+      },
+      {
+        "title": "第22集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fvod6.bdzybf11.com%2F20250125%2F9hv11SG4%2Findex.m3u8",
+        "originalUrl": "https://vod6.bdzybf11.com/20250125/9hv11SG4/index.m3u8"
+      },
+      {
+        "title": "第23集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fvod6.bdzybf11.com%2F20250125%2FGzxblHJq%2Findex.m3u8",
+        "originalUrl": "https://vod6.bdzybf11.com/20250125/GzxblHJq/index.m3u8"
+      },
+      {
+        "title": "第24集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fvod6.bdzybf11.com%2F20250125%2FHIdPFNli%2Findex.m3u8",
+        "originalUrl": "https://vod6.bdzybf11.com/20250125/HIdPFNli/index.m3u8"
+      },
+      {
+        "title": "第25集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb2.bdzybf22.com%2Fvideos%2F202506%2F16%2F6842601b99aaf306c8a2a402%2F58eeg4%2Findex.m3u8",
+        "originalUrl": "https://b2.bdzybf22.com/videos/202506/16/6842601b99aaf306c8a2a402/58eeg4/index.m3u8"
+      }
+    ]
+  },
+  "狂飙": {
+    "vodId": 43948,
+    "name": "越野狂飙",
+    "pic": "https://img.bdzyimg1.com/upload/vod/20250905-1/7846b1f189617c4b59582d2454239d64.jpg",
+    "desc": "拉斯维加斯，世界著名的赌城，多少人成就梦想以及梦想破灭之地。然而，除了灯红酒绿的赌场与香飘四处的酒精之外，这里的摩托车冠军赛也极大地吸引着欲以此成就梦想的众多年轻人。激情四溢的卡莱尔兄弟便是此项赛事的众多拥趸之中的一双。然而，最近他们却遇到了相当的麻烦。而困难不仅仅在赛场上，父亲的不幸离世令兄弟二人整日与悲痛做伴，面对即将到来的摩托车冠军赛已是激情不再。　　还好，此时有众多好友给予俩兄弟莫大的支持和帮助。哥俩终于克服了生理和心理上的重重阻力和困难，同心协力在这场名为“Suppercross www xiguatv8.com(超越)”的摩托车比赛中获得了胜利。但荣誉在手的兄弟俩却在随后的生活中产生了种种的分歧：在对待生活以及事业的选择甚至连俩人沟通的方式上都有着截然不同的走势……",
+    "episodeCount": 1,
+    "episodes": [
+      {
+        "title": "HD中字",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb2.bdzybf22.com%2Fvideos%2F202509%2F05%2F68ba15f28bcb3e09502b18fa%2Fdc2337%2Findex.m3u8",
+        "originalUrl": "https://b2.bdzybf22.com/videos/202509/05/68ba15f28bcb3e09502b18fa/dc2337/index.m3u8"
+      }
+    ]
+  },
+  "三体": {
+    "vodId": 2781,
+    "name": "我的三体第四季",
+    "pic": "https://img.bdzyimg1.com/upload/vod/20250411-1/d13c1c018e902535b669bebed6778baf.jpg",
+    "desc": "",
+    "episodeCount": 5,
+    "episodes": [
+      {
+        "title": "第01集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb2.bdzybf22.com%2Fvideos%2F202504%2F03%2F67d315257d3b5136eef7d5c1%2F7cb879%2Findex.m3u8",
+        "originalUrl": "https://b2.bdzybf22.com/videos/202504/03/67d315257d3b5136eef7d5c1/7cb879/index.m3u8"
+      },
+      {
+        "title": "第02集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb2.bdzybf22.com%2Fvideos%2F202504%2F03%2F67d3152a7d3b5136eef7d5c2%2F8f7490%2Findex.m3u8",
+        "originalUrl": "https://b2.bdzybf22.com/videos/202504/03/67d3152a7d3b5136eef7d5c2/8f7490/index.m3u8"
+      },
+      {
+        "title": "第03集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fvod6.bdzybf11.com%2F20241228%2F5WxSX4MC%2Findex.m3u8",
+        "originalUrl": "https://vod6.bdzybf11.com/20241228/5WxSX4MC/index.m3u8"
+      },
+      {
+        "title": "第04集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb2.bdzybf22.com%2Fvideos%2F202504%2F03%2F67d315307d3b5136eef7d5c5%2Fc00dc9%2Findex.m3u8",
+        "originalUrl": "https://b2.bdzybf22.com/videos/202504/03/67d315307d3b5136eef7d5c5/c00dc9/index.m3u8"
+      },
+      {
+        "title": "第07集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb2.bdzybf22.com%2Fvideos%2F202504%2F03%2F67d3152d7d3b5136eef7d5c3%2Fe22537%2Findex.m3u8",
+        "originalUrl": "https://b2.bdzybf22.com/videos/202504/03/67d3152d7d3b5136eef7d5c3/e22537/index.m3u8"
+      }
+    ]
+  },
+  "繁花": {
+    "vodId": 46888,
+    "name": "一路繁花2",
+    "pic": "https://img.bdzyimg1.com/upload/vod/20260104-1/89b69c909a78021c481e0b7e0aa8d73a.jpg",
+    "desc": "",
+    "episodeCount": 41,
+    "episodes": [
+      {
+        "title": "20251024中",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202510%2F24%2F68fb7fa660f07bbb4522a099%2Fg7d006%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202510/24/68fb7fa660f07bbb4522a099/g7d006/index.m3u8"
+      },
+      {
+        "title": "20251024下",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202510%2F24%2F68fb7f2760f07bbb45229c55%2F38b0da%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202510/24/68fb7f2760f07bbb45229c55/38b0da/index.m3u8"
+      },
+      {
+        "title": "20251024先导片",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202510%2F24%2F68fb7ffc60f07bbb4522a34a%2Fgc258c%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202510/24/68fb7ffc60f07bbb4522a34a/gc258c/index.m3u8"
+      },
+      {
+        "title": "20251024上",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202510%2F24%2F68fb7ebc60f07bbb452297fe%2Fg2283a%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202510/24/68fb7ebc60f07bbb452297fe/g2283a/index.m3u8"
+      },
+      {
+        "title": "20251025",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202510%2F25%2F68fc7d23735c28bb2d24e82e%2F57e894%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202510/25/68fc7d23735c28bb2d24e82e/57e894/index.m3u8"
+      },
+      {
+        "title": "20251031上",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202510%2F31%2F690483d4735c28bb2d378143%2F4a0e05%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202510/31/690483d4735c28bb2d378143/4a0e05/index.m3u8"
+      },
+      {
+        "title": "20251031下",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202510%2F31%2F69048473735c28bb2d37877b%2Fa4bgbg%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202510/31/69048473735c28bb2d37877b/a4bgbg/index.m3u8"
+      },
+      {
+        "title": "20251031中",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202510%2F31%2F690484f4735c28bb2d378bbf%2F6ff1f5%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202510/31/690484f4735c28bb2d378bbf/6ff1f5/index.m3u8"
+      },
+      {
+        "title": "20251101",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202511%2F01%2F6905ddf060f07bbb453a12e2%2F5f2cc3%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202511/01/6905ddf060f07bbb453a12e2/5f2cc3/index.m3u8"
+      },
+      {
+        "title": "20251107下",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202511%2F07%2F690da1b260f07bbb454a48d7%2Fb3gbg3%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202511/07/690da1b260f07bbb454a48d7/b3gbg3/index.m3u8"
+      },
+      {
+        "title": "20251107中",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202511%2F07%2F690da23360f07bbb454a4df8%2F7eec61%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202511/07/690da23360f07bbb454a4df8/7eec61/index.m3u8"
+      },
+      {
+        "title": "20251107上",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202511%2F07%2F690da14960f07bbb454a43d6%2Ffc2731%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202511/07/690da14960f07bbb454a43d6/fc2731/index.m3u8"
+      },
+      {
+        "title": "20251108",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202511%2F08%2F690f1257735c28bb2d4eaf0f%2F6g4734%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202511/08/690f1257735c28bb2d4eaf0f/6g4734/index.m3u8"
+      },
+      {
+        "title": "20251114中",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202511%2F14%2F69172c0c735c28bb2d5eb33f%2Fb7ed7b%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202511/14/69172c0c735c28bb2d5eb33f/b7ed7b/index.m3u8"
+      },
+      {
+        "title": "20251114上",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202511%2F14%2F69172bcb735c28bb2d5eaf8b%2F8aebfc%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202511/14/69172bcb735c28bb2d5eaf8b/8aebfc/index.m3u8"
+      },
+      {
+        "title": "20251115",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202511%2F15%2F6918567760f07bbb455fe0fa%2Fe22a18%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202511/15/6918567760f07bbb455fe0fa/e22a18/index.m3u8"
+      },
+      {
+        "title": "20251121中",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202511%2F21%2F69205fbd735c28bb2d726418%2F13195g%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202511/21/69205fbd735c28bb2d726418/13195g/index.m3u8"
+      },
+      {
+        "title": "20251121上",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202511%2F21%2F69205dae735c28bb2d7253e6%2Fbf890b%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202511/21/69205dae735c28bb2d7253e6/bf890b/index.m3u8"
+      },
+      {
+        "title": "20251121下",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202511%2F21%2F69205ea660f07bbb4570d972%2F019b84%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202511/21/69205ea660f07bbb4570d972/019b84/index.m3u8"
+      },
+      {
+        "title": "20251122",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202511%2F22%2F69218fa860f07bbb45740515%2F106717%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202511/22/69218fa860f07bbb45740515/106717/index.m3u8"
+      },
+      {
+        "title": "20251128下",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202511%2F28%2F69294e3860f07bbb458349f2%2F9a0acf%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202511/28/69294e3860f07bbb458349f2/9a0acf/index.m3u8"
+      },
+      {
+        "title": "20251128上",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202511%2F28%2F69294dba60f07bbb458344e9%2F0a91d3%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202511/28/69294dba60f07bbb458344e9/0a91d3/index.m3u8"
+      },
+      {
+        "title": "20251128中",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202511%2F28%2F69294eaf60f07bbb45835957%2Fb92a31%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202511/28/69294eaf60f07bbb45835957/b92a31/index.m3u8"
+      },
+      {
+        "title": "20251205上",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202512%2F05%2F69328121735c28bb2d98b3a8%2Fb023g9%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202512/05/69328121735c28bb2d98b3a8/b023g9/index.m3u8"
+      },
+      {
+        "title": "20251205下",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202512%2F05%2F6932819a735c28bb2d98b999%2F5eeadc%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202512/05/6932819a735c28bb2d98b999/5eeadc/index.m3u8"
+      },
+      {
+        "title": "20251205中",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202512%2F05%2F693281d9735c28bb2d98bd4a%2Fd4c471%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202512/05/693281d9735c28bb2d98bd4a/d4c471/index.m3u8"
+      },
+      {
+        "title": "20251206",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202512%2F06%2F6933dc5060f07bbb459a2441%2F2775b8%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202512/06/6933dc5060f07bbb459a2441/2775b8/index.m3u8"
+      },
+      {
+        "title": "20251212",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202512%2F12%2F693bc927735c28bb2dad7b36%2Ff07c3f%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202512/12/693bc927735c28bb2dad7b36/f07c3f/index.m3u8"
+      },
+      {
+        "title": "20251213",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202512%2F13%2F693d0dfa60f07bbb45af9748%2Fb602df%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202512/13/693d0dfa60f07bbb45af9748/b602df/index.m3u8"
+      },
+      {
+        "title": "20251218",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202512%2F18%2F6943e5c6735c28bb2dbf3726%2Ff1315d%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202512/18/6943e5c6735c28bb2dbf3726/f1315d/index.m3u8"
+      },
+      {
+        "title": "20251219上",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202512%2F19%2F6944e961735c28bb2dc050b6%2F9d5gcc%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202512/19/6944e961735c28bb2dc050b6/9d5gcc/index.m3u8"
+      },
+      {
+        "title": "20251219下",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202512%2F19%2F6944e9a4735c28bb2dc0559a%2Fbd7c13%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202512/19/6944e9a4735c28bb2dc0559a/bd7c13/index.m3u8"
+      },
+      {
+        "title": "20251219中",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202512%2F19%2F6944e9fd735c28bb2dc05a8b%2Fb704aa%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202512/19/6944e9fd735c28bb2dc05a8b/b704aa/index.m3u8"
+      },
+      {
+        "title": "20251220",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202512%2F20%2F69465287735c28bb2dc31dbd%2F65ce2g%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202512/20/69465287735c28bb2dc31dbd/65ce2g/index.m3u8"
+      },
+      {
+        "title": "20251226中",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202512%2F26%2F694e27a660f07bbb45dacd73%2F9ca49e%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202512/26/694e27a660f07bbb45dacd73/9ca49e/index.m3u8"
+      },
+      {
+        "title": "20251226下",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202512%2F26%2F694e276d60f07bbb45dac8d2%2F092d1b%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202512/26/694e276d60f07bbb45dac8d2/092d1b/index.m3u8"
+      },
+      {
+        "title": "20251226上",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202512%2F26%2F694e272660f07bbb45dac241%2Fdc8f94%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202512/26/694e272660f07bbb45dac241/dc8f94/index.m3u8"
+      },
+      {
+        "title": "20251227",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202512%2F27%2F694f921f735c28bb2ddda286%2Fg74d5f%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202512/27/694f921f735c28bb2ddda286/g74d5f/index.m3u8"
+      },
+      {
+        "title": "20260101",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb2.bdzybf22.com%2Fvideos%2F202601%2F01%2F69564fe40034baec1e2cbbb1%2Fafae3f%2Findex.m3u8",
+        "originalUrl": "https://b2.bdzybf22.com/videos/202601/01/69564fe40034baec1e2cbbb1/afae3f/index.m3u8"
+      },
+      {
+        "title": "20260103",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb2.bdzybf22.com%2Fvideos%2F202601%2F04%2F695944e00034baec1e41f6e1%2Faa90gd%2Findex.m3u8",
+        "originalUrl": "https://b2.bdzybf22.com/videos/202601/04/695944e00034baec1e41f6e1/aa90gd/index.m3u8"
+      },
+      {
+        "title": "200251129",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202511%2F29%2F692ab865735c28bb2d881d36%2Fbb8caa%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202511/29/692ab865735c28bb2d881d36/bb8caa/index.m3u8"
+      }
+    ]
+  },
+  "琅琊榜": {
+    "vodId": 49351,
+    "name": "琅琊榜",
+    "pic": "https://img.bdzyimg1.com/upload/vod/20260503-1/e31b7874ec41cd50a8e471a2d53fa3d9.jpg",
+    "desc": "十二年前七万赤焰军被奸人所害导致全军覆没，冤死梅岭，只剩少帅林殊（张哲瀚 饰）侥幸生还。十二年后林殊改头换面化身“麒麟才子”梅长苏（胡歌 饰），建立江左盟，以“琅琊榜”第一才子的身份重返帝都。梅长苏背负血海深仇，暗中帮助昔日挚友靖王（王凯 饰）周旋于太子（高鑫 饰）与誉王（黄维德 饰）的斗争之中，同时又遇到了昔日未婚妻——云南王郡主穆霓凰（刘涛 饰）却不能相见。梅长苏以病弱之躯为昭雪冤案、为振兴河山，踏上了一条黑暗又惊心动魄的夺嫡之路。?豆瓣",
+    "episodeCount": 54,
+    "episodes": [
+      {
+        "title": "第01集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f733d1dc47d59aa8d1595c%2Ffe62ac%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f733d1dc47d59aa8d1595c/fe62ac/index.m3u8"
+      },
+      {
+        "title": "第02集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f732d7dc47d59aa8d15934%2F491ae7%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f732d7dc47d59aa8d15934/491ae7/index.m3u8"
+      },
+      {
+        "title": "第03集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f73284dc47d59aa8d158f3%2F6d67ee%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f73284dc47d59aa8d158f3/6d67ee/index.m3u8"
+      },
+      {
+        "title": "第04集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f7336ddc47d59aa8d15952%2F182862%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f7336ddc47d59aa8d15952/182862/index.m3u8"
+      },
+      {
+        "title": "第05集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f7343fdc47d59aa8d15967%2F4b8699%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f7343fdc47d59aa8d15967/4b8699/index.m3u8"
+      },
+      {
+        "title": "第06集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f733fcdc47d59aa8d15960%2F2g9f6e%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f733fcdc47d59aa8d15960/2g9f6e/index.m3u8"
+      },
+      {
+        "title": "第07集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f73467dc47d59aa8d1596b%2Fe2241c%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f73467dc47d59aa8d1596b/e2241c/index.m3u8"
+      },
+      {
+        "title": "第08集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f733bedc47d59aa8d1595a%2F949d25%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f733bedc47d59aa8d1595a/949d25/index.m3u8"
+      },
+      {
+        "title": "第09集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f734c1dc47d59aa8d15974%2F737c56%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f734c1dc47d59aa8d15974/737c56/index.m3u8"
+      },
+      {
+        "title": "第10集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f73377dc47d59aa8d15953%2F8ef1eb%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f73377dc47d59aa8d15953/8ef1eb/index.m3u8"
+      },
+      {
+        "title": "第11集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f733dbdc47d59aa8d1595d%2F379be6%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f733dbdc47d59aa8d1595d/379be6/index.m3u8"
+      },
+      {
+        "title": "第12集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f733b3dc47d59aa8d15959%2F28052c%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f733b3dc47d59aa8d15959/28052c/index.m3u8"
+      },
+      {
+        "title": "第13集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f734addc47d59aa8d15972%2F17d04e%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f734addc47d59aa8d15972/17d04e/index.m3u8"
+      },
+      {
+        "title": "第14集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f73345dc47d59aa8d1594e%2Fdf3055%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f73345dc47d59aa8d1594e/df3055/index.m3u8"
+      },
+      {
+        "title": "第15集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f734b7dc47d59aa8d15973%2Fe2a85d%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f734b7dc47d59aa8d15973/e2a85d/index.m3u8"
+      },
+      {
+        "title": "第16集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f73313dc47d59aa8d15949%2F3b83bg%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f73313dc47d59aa8d15949/3b83bg/index.m3u8"
+      },
+      {
+        "title": "第17集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f7331ddc47d59aa8d1594a%2Fag5e07%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f7331ddc47d59aa8d1594a/ag5e07/index.m3u8"
+      },
+      {
+        "title": "第18集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f733a9dc47d59aa8d15958%2F54757g%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f733a9dc47d59aa8d15958/54757g/index.m3u8"
+      },
+      {
+        "title": "第19集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f7347bdc47d59aa8d1596d%2F361gd0%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f7347bdc47d59aa8d1596d/361gd0/index.m3u8"
+      },
+      {
+        "title": "第20集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f73331dc47d59aa8d1594c%2F6f6b39%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f73331dc47d59aa8d1594c/6f6b39/index.m3u8"
+      },
+      {
+        "title": "第21集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f733efdc47d59aa8d1595f%2F81c71c%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f733efdc47d59aa8d1595f/81c71c/index.m3u8"
+      },
+      {
+        "title": "第22集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f73403dc47d59aa8d15961%2F3aa743%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f73403dc47d59aa8d15961/3aa743/index.m3u8"
+      },
+      {
+        "title": "第23集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f73435dc47d59aa8d15966%2F44ee56%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f73435dc47d59aa8d15966/44ee56/index.m3u8"
+      },
+      {
+        "title": "第24集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f732afdc47d59aa8d15903%2F7431e1%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f732afdc47d59aa8d15903/7431e1/index.m3u8"
+      },
+      {
+        "title": "第25集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f734a3dc47d59aa8d15971%2F9dedc7%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f734a3dc47d59aa8d15971/9dedc7/index.m3u8"
+      },
+      {
+        "title": "第26集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f733e6dc47d59aa8d1595e%2Ff087f4%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f733e6dc47d59aa8d1595e/f087f4/index.m3u8"
+      },
+      {
+        "title": "第27集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f73359dc47d59aa8d15950%2Fcb2589%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f73359dc47d59aa8d15950/cb2589/index.m3u8"
+      },
+      {
+        "title": "第28集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f73292dc47d59aa8d158f4%2Fgeed05%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f73292dc47d59aa8d158f4/geed05/index.m3u8"
+      },
+      {
+        "title": "第29集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f732a2dc47d59aa8d158f6%2F40gggd%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f732a2dc47d59aa8d158f6/40gggd/index.m3u8"
+      },
+      {
+        "title": "第30集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f7339fdc47d59aa8d15957%2Fafdg76%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f7339fdc47d59aa8d15957/afdg76/index.m3u8"
+      },
+      {
+        "title": "第31集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f7342cdc47d59aa8d15965%2F4714de%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f7342cdc47d59aa8d15965/4714de/index.m3u8"
+      },
+      {
+        "title": "第32集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f7330fdc47d59aa8d1593c%2Fe8969f%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f7330fdc47d59aa8d1593c/e8969f/index.m3u8"
+      },
+      {
+        "title": "第33集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f7338bdc47d59aa8d15955%2F30ff4e%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f7338bdc47d59aa8d15955/30ff4e/index.m3u8"
+      },
+      {
+        "title": "第34集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f732f9dc47d59aa8d1593a%2Fab25d2%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f732f9dc47d59aa8d1593a/ab25d2/index.m3u8"
+      },
+      {
+        "title": "第35集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f73367dc47d59aa8d15951%2F6b2180%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f73367dc47d59aa8d15951/6b2180/index.m3u8"
+      },
+      {
+        "title": "第36集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f73454dc47d59aa8d15969%2F5dcf6e%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f73454dc47d59aa8d15969/5dcf6e/index.m3u8"
+      },
+      {
+        "title": "第37集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f73381dc47d59aa8d15954%2F60g7cd%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f73381dc47d59aa8d15954/60g7cd/index.m3u8"
+      },
+      {
+        "title": "第38集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f73421dc47d59aa8d15964%2F1a58a8%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f73421dc47d59aa8d15964/1a58a8/index.m3u8"
+      },
+      {
+        "title": "第39集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f7340edc47d59aa8d15962%2Fbg936a%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f7340edc47d59aa8d15962/bg936a/index.m3u8"
+      },
+      {
+        "title": "第40集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f73492dc47d59aa8d1596f%2Fa66910%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f73492dc47d59aa8d1596f/a66910/index.m3u8"
+      },
+      {
+        "title": "第41集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f7341adc47d59aa8d15963%2F9a4g63%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f7341adc47d59aa8d15963/9a4g63/index.m3u8"
+      },
+      {
+        "title": "第42集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f732ffdc47d59aa8d1593b%2F2g4gd8%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f732ffdc47d59aa8d1593b/2g4gd8/index.m3u8"
+      },
+      {
+        "title": "第43集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f732ebdc47d59aa8d15939%2Fag998f%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f732ebdc47d59aa8d15939/ag998f/index.m3u8"
+      },
+      {
+        "title": "第44集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f73298dc47d59aa8d158f5%2Fd64232%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f73298dc47d59aa8d158f5/d64232/index.m3u8"
+      },
+      {
+        "title": "第45集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f73485dc47d59aa8d1596e%2F150c7g%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f73485dc47d59aa8d1596e/150c7g/index.m3u8"
+      },
+      {
+        "title": "第46集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f7333bdc47d59aa8d1594d%2F52cdge%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f7333bdc47d59aa8d1594d/52cdge/index.m3u8"
+      },
+      {
+        "title": "第47集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f7345ddc47d59aa8d1596a%2F5cc35f%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f7345ddc47d59aa8d1596a/5cc35f/index.m3u8"
+      },
+      {
+        "title": "第48集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f73327dc47d59aa8d1594b%2F07f8e7%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f73327dc47d59aa8d1594b/07f8e7/index.m3u8"
+      },
+      {
+        "title": "第49集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f73449dc47d59aa8d15968%2F81eac1%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f73449dc47d59aa8d15968/81eac1/index.m3u8"
+      },
+      {
+        "title": "第50集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f7334fdc47d59aa8d1594f%2Fa2486c%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f7334fdc47d59aa8d1594f/a2486c/index.m3u8"
+      },
+      {
+        "title": "第51集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f73499dc47d59aa8d15970%2F994f48%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f73499dc47d59aa8d15970/994f48/index.m3u8"
+      },
+      {
+        "title": "第52集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f73472dc47d59aa8d1596c%2F3b1bf0%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f73472dc47d59aa8d1596c/3b1bf0/index.m3u8"
+      },
+      {
+        "title": "第53集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f733c7dc47d59aa8d1595b%2F4gebdc%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f733c7dc47d59aa8d1595b/4gebdc/index.m3u8"
+      },
+      {
+        "title": "第54集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202605%2F03%2F69f73395dc47d59aa8d15956%2F7f8d0c%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202605/03/69f73395dc47d59aa8d15956/7f8d0c/index.m3u8"
+      }
+    ]
+  },
+  "开端": {
+    "vodId": 48906,
+    "name": "开端",
+    "pic": "https://img.bdzyimg1.com/upload/vod/20260404-1/91f3766efa8e558865e41f99a7b2ccc6.jpg",
+    "desc": "<p>安妮和托马斯正处于离婚边缘，这时安妮发生了中风，迫使他们不得不继续住在一起，并推迟了告诉孩子们他们即将分开的消息。面对这一新的现实，两人在最意想不到的地方找到了希望。</p>",
+    "episodeCount": 1,
+    "episodes": [
+      {
+        "title": "HD",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202604%2F04%2F69d0a88f299dab6cc654107b%2Fb8cggf%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202604/04/69d0a88f299dab6cc654107b/b8cggf/index.m3u8"
+      }
+    ]
+  },
+  "沉默的真相": {
+    "vodId": 47836,
+    "name": "再会～沉默的真相～",
+    "pic": "https://img.bdzyimg1.com/upload/vod/20260318-1/e03ba8b8d29f48c7fc1ac227fdbe7d63.webp",
+    "desc": "<p>　　23年前，小学六年级的飞奈淳一（竹内凉真 饰）与关系要好的三名同学，共同把一把卷入事件的手枪埋在樱树下。成年后，淳一成为刑警，却在某起案件中得知：凶器正是当年四人一起埋下的那把枪。更令他震动的是，他以刑警与嫌疑人的身份，与初恋岩本万季子（井上真央 饰）再会。随着调查推进，他逐一与当年的伙伴重逢，被掩埋的真相、背叛与秘密逐渐浮现。过往的“再会”，将彻底改变所有人的人生轨迹。 　　本剧改编自横关大的同名原著小说。</p>",
+    "episodeCount": 9,
+    "episodes": [
+      {
+        "title": "第01集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202601%2F14%2F696687760dc288440d63c113%2Fagad26%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202601/14/696687760dc288440d63c113/agad26/index.m3u8"
+      },
+      {
+        "title": "第02集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202601%2F21%2F696fccdf0dc288440d75a075%2Fe46fg6%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202601/21/696fccdf0dc288440d75a075/e46fg6/index.m3u8"
+      },
+      {
+        "title": "第03集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202601%2F28%2F69790b4a378422441cc1c981%2F2dced6%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202601/28/69790b4a378422441cc1c981/2dced6/index.m3u8"
+      },
+      {
+        "title": "第04集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202602%2F04%2F6982323b378422441cd48acb%2F8d22b6%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202602/04/6982323b378422441cd48acb/8d22b6/index.m3u8"
+      },
+      {
+        "title": "第05集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202602%2F11%2F698b7f19378422441ce9afdb%2F0begd4%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202602/11/698b7f19378422441ce9afdb/0begd4/index.m3u8"
+      },
+      {
+        "title": "第06集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202602%2F18%2F6994b15f378422441cfae6d8%2F45e41c%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202602/18/6994b15f378422441cfae6d8/45e41c/index.m3u8"
+      },
+      {
+        "title": "第07集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202602%2F25%2F699df8a10dc288440dca84e4%2F0f7f5c%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202602/25/699df8a10dc288440dca84e4/0f7f5c/index.m3u8"
+      },
+      {
+        "title": "第08集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202603%2F10%2F69b03c9d378422441c39c406%2Ff91bf8%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202603/10/69b03c9d378422441c39c406/f91bf8/index.m3u8"
+      },
+      {
+        "title": "第09集",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb3.bdzybf22.com%2Fvideos%2F202603%2F18%2F69b99f1a378422441c5865e4%2F69a004%2Findex.m3u8",
+        "originalUrl": "https://b3.bdzybf22.com/videos/202603/18/69b99f1a378422441c5865e4/69a004/index.m3u8"
+      }
+    ]
+  },
+  "陈情令": {
+    "vodId": 44644,
+    "name": "陈情令之生魂",
+    "pic": "https://img.bdzyimg1.com/upload/vod/20250907-1/14a76e2d7dce273a130a973ec2cc7ba4.jpg",
+    "desc": "靠近岐山，有一座曾被称作“小不夜天城”的扶风城。很久以前，此城花灯闪耀，夜如白昼。然而现在却被黑暗笼罩，流传着“点灯杀人”的传说。主人公温宁来到扶风城后，一入城，便发现了很多反常之处，整个城里都是老弱病残，一副萧条破败之景。黑夜来临，温宁刻意点灯，引来鬼影。正要将他擒获之时，一道蓝色剑光袭来，那黑影借机逃离。温宁抬眼一看，一道熟悉的身影从门外飞驰而入，正是他的旧相识，蓝氏子弟蓝思追。随后，温宁与蓝思追一起携手，经过不懈努力，二人最终解开谜团，擒住了幕后黑手，还百姓一个太平世间。",
+    "episodeCount": 1,
+    "episodes": [
+      {
+        "title": "HD中字",
+        "url": "https://fj.xbdzyw.com/m3u8/?url=https%3A%2F%2Fb2.bdzybf22.com%2Fvideos%2F202509%2F07%2F68bce36c8bcb3e0950709c92%2Fc6df45%2Findex.m3u8",
+        "originalUrl": "https://b2.bdzybf22.com/videos/202509/07/68bce36c8bcb3e0950709c92/c6df45/index.m3u8"
+      }
+    ]
+  }
+}
