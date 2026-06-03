@@ -1,0 +1,383 @@
+// 内置剧集数据（本地资源，无需外部网络）
+const MOCK_DATA = [
+  {
+    id: 1, name: '庆余年', nameEn: 'Joy of Life',
+    poster: '/posters/1.svg',
+    backdrop: '/posters/1.svg',
+    first_air_date: '2019-11-26', vote_average: 8.0, vote_count: 68000,
+    genres: [{ id: 1, name: '古装' }, { id: 2, name: '剧情' }],
+    overview: '积善之家，必有余庆。范闲自小不受家中宠溺，却因一次意外远渡它乡，自此在皇宫中如履薄冰，步步为营，最终揭开身世之谜。',
+    number_of_seasons: 2,
+    seasons: [
+      { id: 1, season_number: 0, name: '特别篇', episode_count: 1 },
+      { id: 2, season_number: 1, name: '第一季', episode_count: 46 },
+      { id: 3, season_number: 2, name: '第二季', episode_count: 36 }
+    ],
+    credits: { cast: [
+      { id: 1, name: '张若昀', character: '范闲', profile_path: '' },
+      { id: 2, name: '李沁', character: '林婉儿', profile_path: '' },
+      { id: 3, name: '陈道明', character: '庆帝', profile_path: '' },
+      { id: 4, name: '吴刚', character: '陈萍萍', profile_path: '' },
+    ]},
+    similar: []
+  },
+  {
+    id: 2, name: '狂飙', nameEn: 'The Knockout',
+    poster: '/posters/2.svg',
+    backdrop: '/posters/2.svg',
+    first_air_date: '2023-01-14', vote_average: 8.5, vote_count: 52000,
+    genres: [{ id: 3, name: '犯罪' }, { id: 2, name: '剧情' }],
+    overview: '京海市一线刑警安欣与黑恶势力高启强跨越20年的博弈较量，展现了一个扫黑除恶的艰辛历程，既有对人性的刻画，也有对时代变迁的记录。',
+    number_of_seasons: 1,
+    seasons: [
+      { id: 4, season_number: 1, name: '第一季', episode_count: 39 }
+    ],
+    credits: { cast: [
+      { id: 6, name: '张译', character: '安欣', profile_path: '' },
+      { id: 7, name: '张颂文', character: '高启强', profile_path: '' },
+      { id: 8, name: '李一桐', character: '孟钰', profile_path: '' },
+    ]},
+    similar: []
+  },
+  {
+    id: 3, name: '三体', nameEn: 'Three-Body',
+    poster: '/posters/3.svg',
+    backdrop: '/posters/3.svg',
+    first_air_date: '2023-01-15', vote_average: 7.9, vote_count: 43000,
+    genres: [{ id: 4, name: '科幻' }, { id: 2, name: '剧情' }],
+    overview: '纳米科学家汪淼在研究中发现了一个神秘倒计时，由此揭开了一个关于人类命运的终极秘密。三体文明即将入侵，人类面对前所未有的危机。',
+    number_of_seasons: 1,
+    seasons: [
+      { id: 5, season_number: 1, name: '第一季', episode_count: 30 }
+    ],
+    credits: { cast: [
+      { id: 10, name: '张鲁一', character: '汪淼', profile_path: '' },
+      { id: 11, name: '于和伟', character: '史强', profile_path: '' },
+    ]},
+    similar: []
+  },
+  {
+    id: 4, name: '繁花', nameEn: 'Blossoms Shanghai',
+    poster: '/posters/4.svg',
+    backdrop: '/posters/4.svg',
+    first_air_date: '2023-12-27', vote_average: 8.7, vote_count: 38000,
+    genres: [{ id: 5, name: '爱情' }, { id: 2, name: '剧情' }],
+    overview: '上海滩霓虹闪耀，繁花似锦。90年代初的上海，年轻商人阿宝在股市和商海中浮沉，与三个女人之间的情感纠葛，书写了一段独属于上海的传奇故事。',
+    number_of_seasons: 1,
+    seasons: [
+      { id: 6, season_number: 1, name: '第一季', episode_count: 30 }
+    ],
+    credits: { cast: [
+      { id: 13, name: '胡歌', character: '阿宝', profile_path: '' },
+      { id: 14, name: '马伊琍', character: '玲子', profile_path: '' },
+      { id: 15, name: '唐嫣', character: '汪小姐', profile_path: '' },
+    ]},
+    similar: []
+  },
+  {
+    id: 5, name: '琅琊榜', nameEn: 'Nirvana in Fire',
+    poster: '/posters/5.svg',
+    backdrop: '/posters/5.svg',
+    first_air_date: '2015-09-19', vote_average: 9.4, vote_count: 95000,
+    genres: [{ id: 1, name: '古装' }, { id: 6, name: '悬疑' }],
+    overview: '琅琊榜首，江左梅郎。麒麟才子梅长苏，以病弱之躯拨弄乾坤，为沉冤昭雪、匡扶正义，步步为营，掀起一场场朝堂之争和江湖风云。',
+    number_of_seasons: 1,
+    seasons: [
+      { id: 7, season_number: 1, name: '第一季', episode_count: 54 }
+    ],
+    credits: { cast: [
+      { id: 17, name: '胡歌', character: '梅长苏', profile_path: '' },
+      { id: 18, name: '刘涛', character: '霓凰郡主', profile_path: '' },
+      { id: 19, name: '王凯', character: '靖王', profile_path: '' },
+    ]},
+    similar: []
+  },
+  {
+    id: 6, name: '甄嬛传', nameEn: 'Empresses in the Palace',
+    poster: '/posters/6.svg',
+    backdrop: '/posters/6.svg',
+    first_air_date: '2011-11-17', vote_average: 9.3, vote_count: 88000,
+    genres: [{ id: 1, name: '古装' }, { id: 7, name: '宫廷' }],
+    overview: '清朝雍正年间，少女甄嬛入宫，在尔虞我诈的后宫中步步为营，从天真少女蜕变为深谙权谋的太后，书写了一段传奇的后宫人生。',
+    number_of_seasons: 1,
+    seasons: [
+      { id: 8, season_number: 1, name: '第一季', episode_count: 76 }
+    ],
+    credits: { cast: [
+      { id: 20, name: '孙俪', character: '甄嬛', profile_path: '' },
+      { id: 21, name: '陈建斌', character: '雍正', profile_path: '' },
+      { id: 22, name: '蔡少芬', character: '皇后', profile_path: '' },
+    ]},
+    similar: []
+  },
+  {
+    id: 7, name: '漫长的季节', nameEn: 'The Long Season',
+    poster: '/posters/7.svg',
+    backdrop: '/posters/7.svg',
+    first_air_date: '2023-04-22', vote_average: 9.4, vote_count: 45000,
+    genres: [{ id: 6, name: '悬疑' }, { id: 2, name: '剧情' }],
+    overview: '东北小城桦林，火车司机王响的生活被一桩碎尸案彻底改变。跨越三个时间线，一个关于命运、执念与和解的故事徐徐展开。',
+    number_of_seasons: 1,
+    seasons: [
+      { id: 9, season_number: 1, name: '第一季', episode_count: 12 }
+    ],
+    credits: { cast: [
+      { id: 23, name: '范伟', character: '王响', profile_path: '' },
+      { id: 24, name: '秦昊', character: '龚彪', profile_path: '' },
+    ]},
+    similar: []
+  },
+  {
+    id: 8, name: '觉醒年代', nameEn: 'The Age of Awakening',
+    poster: '/posters/8.svg',
+    backdrop: '/posters/8.svg',
+    first_air_date: '2021-02-01', vote_average: 9.3, vote_count: 72000,
+    genres: [{ id: 8, name: '历史' }, { id: 2, name: '剧情' }],
+    overview: '1915年到1921年间，以陈独秀、李大钊为代表的一批知识分子，在寻求救国之道的道路上，探索马克思主义，最终创建了中国共产党的故事。',
+    number_of_seasons: 1,
+    seasons: [
+      { id: 10, season_number: 1, name: '第一季', episode_count: 43 }
+    ],
+    credits: { cast: [
+      { id: 26, name: '于和伟', character: '陈独秀', profile_path: '' },
+      { id: 27, name: '张桐', character: '李大钊', profile_path: '' },
+    ]},
+    similar: []
+  },
+  {
+    id: 9, name: '隐秘的角落', nameEn: 'The Bad Kids',
+    poster: '/posters/9.svg',
+    backdrop: '/posters/9.svg',
+    first_air_date: '2020-06-16', vote_average: 8.8, vote_count: 41000,
+    genres: [{ id: 6, name: '悬疑' }, { id: 9, name: '家庭' }],
+    overview: '沿海小城的三个孩子在景区游玩时，无意间拍摄记录了一场谋杀，由此卷入一连串的危机与阴谋之中。',
+    number_of_seasons: 1,
+    seasons: [
+      { id: 11, season_number: 1, name: '第一季', episode_count: 12 }
+    ],
+    credits: { cast: [
+      { id: 28, name: '秦昊', character: '张东升', profile_path: '' },
+      { id: 30, name: '荣梓杉', character: '朱朝阳', profile_path: '' },
+    ]},
+    similar: []
+  },
+  {
+    id: 10, name: '开端', nameEn: 'Reset',
+    poster: '/posters/10.svg',
+    backdrop: '/posters/10.svg',
+    first_air_date: '2022-01-11', vote_average: 7.8, vote_count: 36000,
+    genres: [{ id: 4, name: '科幻' }, { id: 6, name: '悬疑' }],
+    overview: '大学生李诗情和游戏架构师张鹤瀚在遭遇公交车爆炸后不断经历时间循环，两人联手寻找真相、阻止灾难的发生。',
+    number_of_seasons: 1,
+    seasons: [
+      { id: 12, season_number: 1, name: '第一季', episode_count: 15 }
+    ],
+    credits: { cast: [
+      { id: 31, name: '赵今麦', character: '李诗情', profile_path: '' },
+      { id: 32, name: '白敬亭', character: '张鹤瀚', profile_path: '' },
+    ]},
+    similar: []
+  },
+  {
+    id: 11, name: '人世间', nameEn: 'A Lifelong Journey',
+    poster: '/posters/11.svg',
+    backdrop: '/posters/11.svg',
+    first_air_date: '2022-01-28', vote_average: 8.4, vote_count: 55000,
+    genres: [{ id: 2, name: '剧情' }, { id: 9, name: '家庭' }],
+    overview: '上世纪七十年代末，北方某省会城市"光字片"区居住着周姓一家。周家三兄妹在五十年间经历的人生起落，折射出中国社会的巨变和普通人生活中的悲欢离合。',
+    number_of_seasons: 1,
+    seasons: [
+      { id: 13, season_number: 1, name: '第一季', episode_count: 58 }
+    ],
+    credits: { cast: [
+      { id: 33, name: '雷佳音', character: '周秉昆', profile_path: '' },
+      { id: 35, name: '宋佳', character: '郑娟', profile_path: '' },
+    ]},
+    similar: []
+  },
+  {
+    id: 12, name: '沉默的真相', nameEn: 'The Long Night',
+    poster: '/posters/12.svg',
+    backdrop: '/posters/12.svg',
+    first_air_date: '2020-09-16', vote_average: 9.1, vote_count: 28000,
+    genres: [{ id: 6, name: '悬疑' }, { id: 2, name: '剧情' }],
+    overview: '一起看似简单的自杀案件，背后隐藏着一个跨越十年的惊天秘密。年轻检察官江阳在追寻真相的过程中，付出了常人难以想象的代价。',
+    number_of_seasons: 1,
+    seasons: [
+      { id: 14, season_number: 1, name: '第一季', episode_count: 12 }
+    ],
+    credits: { cast: [
+      { id: 36, name: '廖凡', character: '严良', profile_path: '' },
+      { id: 37, name: '白宇', character: '江阳', profile_path: '' },
+    ]},
+    similar: []
+  },
+  {
+    id: 13, name: '知否知否应是绿肥红瘦', nameEn: 'The Story of Minglan',
+    poster: '/posters/13.svg',
+    backdrop: '/posters/13.svg',
+    first_air_date: '2018-12-25', vote_average: 8.2, vote_count: 62000,
+    genres: [{ id: 1, name: '古装' }, { id: 5, name: '爱情' }],
+    overview: '北宋年间，官宦世家庶女盛明兰从小聪颖但掩藏锋芒，在逆境中成长，最终与顾廷烨结为连理，携手一生。',
+    number_of_seasons: 1,
+    seasons: [
+      { id: 15, season_number: 1, name: '第一季', episode_count: 78 }
+    ],
+    credits: { cast: [
+      { id: 39, name: '赵丽颖', character: '盛明兰', profile_path: '' },
+      { id: 40, name: '冯绍峰', character: '顾廷烨', profile_path: '' },
+    ]},
+    similar: []
+  },
+  {
+    id: 14, name: '去有风的地方', nameEn: 'Meet Yourself',
+    poster: '/posters/14.svg',
+    backdrop: '/posters/14.svg',
+    first_air_date: '2023-01-03', vote_average: 8.7, vote_count: 48000,
+    genres: [{ id: 2, name: '剧情' }, { id: 5, name: '爱情' }],
+    overview: '辞职后，许红豆来到大理云苗村的"有风小院"休憩。在这里，她遇见了一群有趣的人，逐渐治愈了内心的伤痛，找到了人生新的方向。',
+    number_of_seasons: 1,
+    seasons: [
+      { id: 16, season_number: 1, name: '第一季', episode_count: 40 }
+    ],
+    credits: { cast: [
+      { id: 42, name: '刘亦菲', character: '许红豆', profile_path: '' },
+      { id: 43, name: '李现', character: '谢之遥', profile_path: '' },
+    ]},
+    similar: []
+  },
+  {
+    id: 15, name: '陈情令', nameEn: 'The Untamed',
+    poster: '/posters/15.svg',
+    backdrop: '/posters/15.svg',
+    first_air_date: '2019-06-27', vote_average: 7.7, vote_count: 58000,
+    genres: [{ id: 1, name: '古装' }, { id: 10, name: '仙侠' }],
+    overview: '魏无羡和蓝忘机携手锄奸扶弱，匡扶正义的故事。十六年后，魏无羡被莫玄羽献舍重生，与蓝忘机重逢，共同揭开隐藏多年的阴谋。',
+    number_of_seasons: 1,
+    seasons: [
+      { id: 17, season_number: 1, name: '第一季', episode_count: 50 }
+    ],
+    credits: { cast: [
+      { id: 44, name: '肖战', character: '魏无羡', profile_path: '' },
+      { id: 45, name: '王一博', character: '蓝忘机', profile_path: '' },
+    ]},
+    similar: []
+  }
+]
+
+// 生成每集的简介
+function generateEpisodes(tvId, seasonNum, count) {
+  const tv = MOCK_DATA.find(t => t.id === tvId)
+  const plotSnippets = {
+    1: ['范闲初入京城','结识林婉儿','诗会惊艳','身世之谜','入宫为官','校场比武','出使北齐','危机四伏','真相渐露','权谋博弈'],
+    2: ['安欣初到京海','结识高启强','菜市场往事','强盛兄弟崛起','势力扩张','暗夜交易','安欣的坚持','二十年后重逢','旧案重提','正义降临'],
+    3: ['汪淼的倒计时','科学边界','红岸基地','三体游戏','ETO组织','古筝行动','宇宙闪烁','黑暗森林','面壁计划','末日之战'],
+    4: ['阿宝登场','南京路上','股市风云','至真园开业','外贸生意','玲子的心事','汪小姐的梦想','李李入局','商战升级','繁华落幕'],
+    5: ['梅长苏入京','金陵城风云','太子与誉王','霓凰重逢','朝堂暗战','悬镜司','边关军情','夏江的阴谋','赤焰旧案','翻案之路'],
+  }
+  const snippets = plotSnippets[tvId] || ['剧情发展','矛盾激化','高潮迭起','真相揭晓','结局']
+  const episodes = []
+  for (let i = 1; i <= count; i++) {
+    episodes.push({
+      id: `${tvId}-${seasonNum}-${i}`,
+      episode_number: i,
+      name: snippets[(i - 1) % snippets.length] || `第${i}集`,
+      overview: `${tv?.name || '本剧'}第${seasonNum}季第${i}集剧情。`,
+      still_path: null,
+      air_date: null
+    })
+  }
+  return episodes
+}
+
+// 百度网盘资源 - 用户可在此配置自己的分享链接
+// 格式: { tvId: { season: { episode: 'baidu_share_url' } } }
+const BAIDU_RESOURCES = {
+  // 示例格式（用户需自行填写真实分享链接）：
+  // 1: { 1: { 1: 'https://pan.baidu.com/s/xxx', 2: 'https://pan.baidu.com/s/yyy' } }
+}
+
+// 获取视频URL（优先百度资源，否则用公开源）
+const getVideoUrl = (tvId, season, episode) => {
+  // 检查是否有百度网盘资源
+  const baiduUrl = BAIDU_RESOURCES[tvId]?.[season]?.[episode]
+  if (baiduUrl) return baiduUrl
+
+  // 公开测试视频源（可替换为你自己的视频链接）
+  const publicSources = [
+    'https://media.w3.org/2010/05/sintel/trailer.mp4',
+    'https://www.w3schools.com/html/mov_bbb.mp4',
+    'https://media.w3.org/2010/05/bunny/trailer.mp4',
+    'https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4',
+  ]
+  const idx = (Number(tvId) + Number(season) + Number(episode)) % publicSources.length
+  return publicSources[idx]
+}
+
+export const useMockApi = () => {
+  const delay = (ms = 300) => new Promise(r => setTimeout(r, ms))
+
+  return {
+    getPopularTV: async (page = 1) => {
+      await delay()
+      const start = (page - 1) * 10
+      return { page, results: MOCK_DATA.slice(start, start + 10), total_pages: 2, total_results: MOCK_DATA.length }
+    },
+    getTopRatedTV: async (page = 1) => {
+      await delay()
+      return { page, results: [...MOCK_DATA].sort((a, b) => b.vote_average - a.vote_average).slice(0, 10), total_pages: 1, total_results: 10 }
+    },
+    getOnAirTV: async (page = 1) => {
+      await delay()
+      const onAir = MOCK_DATA.filter(d => parseInt(d.first_air_date) >= 2022)
+      return { page, results: onAir, total_pages: 1, total_results: onAir.length }
+    },
+    getTVDetail: async (id) => {
+      await delay()
+      const tv = MOCK_DATA.find(t => t.id === Number(id))
+      if (!tv) throw new Error('剧集不存在')
+      return tv
+    },
+    getSeason: async (id, season) => {
+      await delay()
+      const tv = MOCK_DATA.find(t => t.id === Number(id))
+      const s = tv?.seasons?.find(s => s.season_number === season)
+      return {
+        id: Number(id), season_number: season,
+        name: s?.name || `第${season}季`,
+        episodes: generateEpisodes(Number(id), season, s?.episode_count || 12)
+      }
+    },
+    searchTV: async (query, page = 1) => {
+      await delay()
+      const results = MOCK_DATA.filter(d =>
+        d.name.includes(query) || d.nameEn.toLowerCase().includes(query.toLowerCase())
+      )
+      return { page, results, total_pages: 1, total_results: results.length }
+    },
+    getGenres: async () => ({
+      genres: [
+        { id: 1, name: '古装' }, { id: 2, name: '剧情' }, { id: 3, name: '犯罪' },
+        { id: 4, name: '科幻' }, { id: 5, name: '爱情' }, { id: 6, name: '悬疑' },
+        { id: 7, name: '宫廷' }, { id: 8, name: '历史' }, { id: 9, name: '家庭' },
+        { id: 10, name: '仙侠' }
+      ]
+    }),
+    imgURL: (path) => {
+      if (!path) return '/favicon.svg'
+      return path // mock数据中已经是完整本地路径
+    },
+    getVideoUrl,
+    hasBaiduResource: (tvId, season, episode) => {
+      return !!BAIDU_RESOURCES[tvId]?.[season]?.[episode]
+    },
+    // 用户可调用此函数添加百度网盘资源
+    addBaiduResource: (tvId, season, episode, url) => {
+      if (!BAIDU_RESOURCES[tvId]) BAIDU_RESOURCES[tvId] = {}
+      if (!BAIDU_RESOURCES[tvId][season]) BAIDU_RESOURCES[tvId][season] = {}
+      BAIDU_RESOURCES[tvId][season][episode] = url
+    }
+  }
+}
+
+export default useMockApi
